@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JellyPumps
-- 👀 I’m interested in Making video games
-- 🌱 I’m currently learning C# and C++
+- 👀 I’m interested in making video games
+- 🌱 I’m currently learning C# and C
 - 📫 How to reach me? As of yet, you can't :/
 
 <!---
