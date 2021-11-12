@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JellyPumps
-- 👀 I’m interested in making video games
+- 👋 Hi, I’m @JellyPumps, you can also call me SMVBJelly (Someverybouncyjelly)
+- 👀 I make video games
 - 🌱 I’m currently learning C# and C
 - 📫 How to reach me? As of yet, you can't :/
 
