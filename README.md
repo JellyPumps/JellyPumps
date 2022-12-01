@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JellyPumps, you can also call me SMVBJelly (Someverybouncyjelly)
 - 👀 I make video games
-- 🌱 I’m currently learning C# and C
+- 🌱 I’m currently learning C++ and Python
 - 📫 How to reach me? Bouncyjelly.com
 
 <!---
