@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sarthak and CS major at HWUOD.</h2>
+<h2 align="left">Hi 👋! My name is Sarthak and CS major at Heriot Watt University.</h2>
 
 ###
 
